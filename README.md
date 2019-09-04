@@ -14,4 +14,4 @@ Usage: ./ruler.sh <width> <height>
 ./ruler.sh 640 480
 ```
 
-![Example Ruler](//raw.githubusercontent.com/jandusek/ruler/master/ruler_640x480.png)
+![Example Ruler](https://raw.githubusercontent.com/jandusek/ruler/master/ruler_640x480.png)
