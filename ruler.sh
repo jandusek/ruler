@@ -7,7 +7,6 @@ TL=10
 STROKE="#008CFF"
 POINTSIZE=20
 FONT=~/fonts/lekton/Lekton-Regular.ttf
-FONT=/Users/jdusek/Twilio/fonts/lekton/Lekton-Regular.ttf
 
 display_usage() { 
     echo -e "Usage: $0 <width> <height>\n"
